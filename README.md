@@ -1,4 +1,4 @@
-# Ahmad Iqbal
+
 
 <h1 align="center">Ahmad Iqbal</h1>
 <h3 align="center">Full Stack Developer | React.js · Next.js · Node.js · TypeScript</h3>
@@ -83,3 +83,4 @@ I'm open to **full-time opportunities, remote positions, and freelance projects*
 <p align="center">
   <i>Building meaningful products through thoughtful engineering and continuous improvement.</i>
 </p>
+
